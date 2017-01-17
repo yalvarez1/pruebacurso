@@ -1,5 +1,7 @@
 # My Awesome Book
 
+[prueba]: http://campusvirtual.ull.es/ "Prueba de identificador"
+
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 # This is an h1 tag
 ## This is an h2 tag
@@ -34,3 +36,4 @@ This is [an example](http://example.com/ "Title") inline link with a title.
 
 [This link](http://example.net/) has no title attribute.
 
+This is [an example] [prueba]
