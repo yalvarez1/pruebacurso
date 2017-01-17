@@ -98,3 +98,5 @@ $$x=\frac{1+y}{1+2z^2}$$
 
 Esto es un ejemplo sin estar en la nube
 
+
+Cambios en la rama capítulo 2
