@@ -37,3 +37,6 @@ This is [an example](http://example.com/ "Title") inline link with a title.
 [This link](http://example.net/) has no title attribute.
 
 This is [an example] [prueba]
+
+
+An image: ![Una imagen de GitBook](/![assets/image.jpg](/assets/Flor.jpg))
